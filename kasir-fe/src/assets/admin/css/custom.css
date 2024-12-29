@@ -1,0 +1,178 @@
+body {
+    font-family: 'Quicksand', sans-serif !important;
+    background-color: #e5e5e5 !important;
+}
+.border-top-success {
+    border-top: 5px solid #188a55 !important;
+}
+.border-top-red {
+    border-top: 5px solid #fa2166 !important;
+}
+.border-top-yellow {
+    border-top: 5px solid #ffce08 !important;
+}
+.btn-primary {
+    background-color: #14b5b5 !important;
+    border-color: #14b5b5 !important;
+}
+.btn-skyblue {
+    background-color: #15977f !important;
+    border-color: #00fd8f !important;
+}
+.btn-navy {
+    background-color: #00022e !important;
+    border-color: #00022e !important;
+}
+.btn-skyblue:hover {
+    background-color: #25eaea !important;
+    border-color: #00fd8f !important;
+}
+.btn-navy:hover {
+    background-color: #090d61 !important;
+    border-color: #090d61 !important;
+}
+.btn-orange {
+    background-color: #fbc31b !important;
+    border-color: #fbc31b !important;
+}
+.btn-orange:hover {
+    background-color: #fce191 !important;
+    border-color: #fada7b !important;
+}
+
+.btn-primary:hover {
+    background-color: #5acccc !important;
+    border-color: #5ccaca !important;
+}
+
+.bg-box-1 {
+    /* background-image: linear-gradient(135deg, hsl(341deg 96% 55%) 0%, hsl(331deg 96% 51%) 10%, hsl(320deg 97% 46%) 20%, hsl(310deg 97% 42%) 30%, hsl(299deg 98% 37%) 40%, hsl(289deg 98% 32%) 50%, hsl(279deg 99% 28%) 60%, hsl(269deg 98% 23%) 70%, hsl(258deg 100% 18%) 80%, hsl(248deg 100% 14%) 90%, hsl(237deg 100% 9%) 100%);
+     */
+    background-color: #003940 !important;
+}
+.bg-box-2 {
+    background-color: #005b66 !important;
+}
+.bg-box-3 {
+    background-color: #36a5b2 !important;
+}
+.bg-box-4 {
+    background-color: #00e4ff !important;
+}
+.bg-dark {
+    background-color: #188a55 !important;
+}
+.bg-navy {
+    background-color: #00022e !important;
+}
+.bg-blue {
+    background-color: #14b5b5 !important;
+}
+
+.bg-skyblue {
+    background-color: #8ae4ff !important;
+}
+
+.bg-skyinfo {
+    background-color: #50ebbc !important;
+}
+
+.bg-green {
+    background-color: #0f172a !important;
+}
+
+.sb-sidenav-dark {
+    background-color: #ffffff !important;
+    color: rgb(141 139 139);
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .nav-link {
+    color: #ffffff;
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .nav-link .sb-nav-link-icon {
+    color: rgb(1, 2, 11) !important;
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .sb-sidenav-menu-heading {
+    color: rgb(0 2 46) !important;
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .nav-link .sb-sidenav-collapse-arrow {
+    color: rgb(0 2 46) !important;
+}
+
+.active-sidebar {
+    background-image: linear-gradient(to right, #baffea, #02b2fd) !important;
+    border-top-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    margin-top: 5px !important;
+}
+.nav-link:hover {
+    /* Atur efek hover di sini */
+    background-image: linear-gradient(to right, #02b2fd, #baffea) !important;
+    /* Ubah nilai lain sesuai kebutuhan Anda */
+    border-top-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    margin-left: 10px !important;
+    margin-right: 0px !important;
+    margin-top: 5px !important;
+}
+.sb-sidenav-dark .sb-sidenav-footer {
+    background-color: #00b2fd !important;
+}
+
+.input-group-text {
+    display: flex;
+    align-items: center;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #fa2166;
+    border: 1px solid #ced4da;
+    border-radius: 0.375rem;
+}
+
+.table .thead-dark th {
+    /* background-color: #198a55;
+  color: #ffffff; */
+    background-color: #50ebbc;
+    color: #413c3c;
+}
+
+.ql-container {
+    min-height: 10rem;
+    height: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.ql-editor {
+    height: 100%;
+    flex: 1;
+    overflow-y: auto;
+    width: 100%;
+}
+
+.custom-table thead {
+    background-color: blue !important; /* Prioritas tinggi */
+    color: white !important; /* Prioritas tinggi */
+}
+
+.bodys {
+    margin: 30;
+    padding: 30;
+}
+.container-fluid {
+    /* Sesuaikan margin dan padding jika perlu */
+    margin: 30;
+    padding: 10;
+}
+/* Atur gaya lainnya yang diperlukan untuk pencetakan */

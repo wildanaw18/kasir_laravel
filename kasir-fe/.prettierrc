@@ -1,0 +1,17 @@
+{
+  "printWidth": 1000,
+  "tabWidth": 4,
+  "useTabs": false,
+  "endOfLine": "lf",
+  "semi": false,
+  "singleQuote": true,
+  "line-height": 1.5,
+  "overrides": [
+      {
+          "files": "*.json",
+          "options": {
+              "tabWidth": 2
+          }
+      }
+  ]
+}
